@@ -5,7 +5,15 @@
 wget --no-check-certificate https://raw.github.com/Lozy/danted/master/install.sh -O install.sh
 sudo bash install.sh --port=1080 --user=your_username --passwd=your_password
 ```
++ 添加用户名新 和密码
+``` 
+  /etc/init.d/sockd adduser 用户名 密码
+```
++ 删除新用户
 
+  ```
+/etc/init.d/sockd deluser 用户名
+  ``` 
 基于 [Dante socks5 (1.3.2/1.4.3)](https://www.inet.no/dante) 的自动化部署镜像/脚本.
 
 ## Docker 安装模式
