@@ -1,6 +1,7 @@
 # Sockd
 
-``` 一键安装脚本 port 是端口 user 是用户名  passwd 是密码 自己替换
++ 一键安装脚本 port 是端口 user 是用户名  passwd 是密码 自己替换 
+``` 
 wget --no-check-certificate https://raw.github.com/Lozy/danted/master/install.sh -O install.sh
 sudo bash install.sh --port=1080 --user=your_username --passwd=your_password
 ```
