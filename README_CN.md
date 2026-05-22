@@ -12,7 +12,7 @@ sudo bash install.sh --port=1080 --user=your_username --passwd=your_password
 + 删除新用户
 
   ```
-/etc/init.d/sockd deluser 用户名
+  /etc/init.d/sockd deluser 用户名
   ``` 
 基于 [Dante socks5 (1.3.2/1.4.3)](https://www.inet.no/dante) 的自动化部署镜像/脚本.
 
