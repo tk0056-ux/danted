@@ -1,7 +1,7 @@
 # Sockd
 **Dante socks5 server (v1.3.2/v1.4.2) auto-install and management script**
 
-
+[简体中文](https://github.com/tk0056-ux/danted/blob/master/README_CN.md)
 ## Update
 
 > #### 2022/11/26
